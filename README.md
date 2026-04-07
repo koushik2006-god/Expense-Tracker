@@ -162,7 +162,15 @@ npm run build
 3. Deploy
 
 ### Backend
-The backend is already deployed on Supabase. No additional deployment needed.
+The backend is already deployed on Supabase. No additional deployment neede
+
+## image<img width="1040" height="775" alt="Screenshot 2026-04-07 182754" src="https://github.com/user-attachments/assets/0679b9d9-472f-4712-a9c6-252b74caa62c" />
+<img width="1795" height="898" alt="Screenshot 2026-04-07 183004" src="https://github.com/user-attachments/assets/452a2465-abb9-4d49-af59-9288f5901607" />
+<img width="1789" height="867" alt="Screenshot 2026-04-07 183019" src="https://github.com/user-attachments/assets/<img width="1716" height="619" alt="Screenshot 2026-04-07 183025" src="https://github.com/user-attachments/assets/84b75775-3336-45c3-a5e9-198854128c07" />
+360f4532-2bab-46ed-a9e1-883b089caddf" />
+<img width="745" height="928" alt="Screenshot 2026-04-07 183032" src="https://github.com/user-attachments/assets/0a54d37f-6e5b-463b-903a-170f971b53a8" />
+<img width="1789" height="867" alt="Screenshot 2026-04-07 183019" src="https://github.com/user-attachments/assets/65db0ede-c8fe-448c-b51c-5468de56b496" />
+<img width="1716" height="619" alt="Screenshot 2026-04-07 183025" src="https://github.com/user-attachments/assets/e7a38249-a515-4071-8e1f-ec3f762a0f39" />
 
 ## Support
 
